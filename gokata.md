@@ -6,8 +6,7 @@
 
 ## Go
 
-### 8 kyu (46)
-
+### 8 kyu (47)
 
 - [101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)
 - [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
