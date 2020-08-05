@@ -70,6 +70,10 @@
 - [Split Strings](https://www.codewars.com/kata/split-strings)
 - [IP Validation](https://www.codewars.com/kata/ip-validation)
 
+### Beta
+
+- [About triangles](https://www.codewars.com/kata/59c7d8bf86a6fd477900007d)
+
 ## Specials
 
 - [Find the longest gap!](https://www.codewars.com/kata/find-the-longest-gap)
