@@ -62,6 +62,7 @@
 - [Are the numbers in order?](https://www.codewars.com/kata/are-the-numbers-in-order)
 - [Is this a triangle?](https://www.codewars.com/kata/is-this-a-triangle)
 - [Mumbling](https://www.codewars.com/kata/mumbling)
+- [Two to One](https://www.codewars.com/kata/two-to-one)
 
 ### 6 kyu
 
@@ -72,7 +73,6 @@
 
 ## Specials
 
-- [Two to One](https://www.codewars.com/kata/two-to-one)
 - [Find the longest gap!](https://www.codewars.com/kata/find-the-longest-gap)
 - [Complete The Pattern #2](https://www.codewars.com/kata/complete-the-pattern-number-2)
 - [Largest 5 digit number in a series](https://www.codewars.com/kata/largest-5-digit-number-in-a-series)
