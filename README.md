@@ -1,7 +1,11 @@
 # TROPICAL PUNCH
 
-![logo](/images/logo.png)
+![TROPICAL PUNCH](images/tropical-punch.png)
 
-#### Golang kata list:
+## Training
 
-[Training Go](/training.md)
+[Codewars](codewars.md)
+
+## Classic times
+
+![golden circle](images/golden-circle.png)
