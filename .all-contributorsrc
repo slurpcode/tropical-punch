@@ -18,6 +18,16 @@
       ]
     },
     {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc",
+        "projectManagement"
+      ]
+    },
+    {    
       "login": "Andrew-Colman",
       "name": "Andrew ",
       "avatar_url": "https://avatars.githubusercontent.com/u/56676505?v=4",
